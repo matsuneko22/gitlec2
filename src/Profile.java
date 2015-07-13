@@ -1,4 +1,3 @@
-package gitlec2;
 
 public abstract class Profile {
 	private String name;
@@ -13,7 +12,7 @@ public abstract class Profile {
 
 	public void hello() {
 		System.out.println("================================");
-		System.out.println(getName() + "Ç≈Ç∑ÅB\n" + profile());
+		System.out.println(getName() + "desu\n" + profile());
 		System.out.println("================================");
 		
 	}

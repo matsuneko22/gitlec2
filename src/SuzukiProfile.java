@@ -1,5 +1,3 @@
-package gitlec2;
-
 public class SuzukiProfile extends Profile {
 
 	public SuzukiProfile(String name) {
@@ -8,6 +6,6 @@ public class SuzukiProfile extends Profile {
 
 	@Override
 	public String profile() {
-		return "éÑÇÃéÔñ°ÇÕÅ~Å~Å~Å~Ç≈Ç∑ÅB";
+		return "aaa";
 	}
 }
